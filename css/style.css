@@ -89,7 +89,7 @@ p {
       -ms-flex-pack: justify;
           justify-content: space-between;
   color: #6f76c8;
-  padding: 2rem 0;
+  padding: 1.5rem 0;
 }
 
 #main .profile .period p.active {
