@@ -44,7 +44,7 @@ p {
   margin-top: 5rem;
   background-color: #1c1f4a;
   border-radius: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 #main .profile .period p:first-child {
@@ -118,7 +118,7 @@ p {
 }
 
 .card {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   padding-top: 1.25rem;
   border-radius: 1rem;
   z-index: 1;
